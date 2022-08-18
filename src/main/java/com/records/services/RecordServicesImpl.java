@@ -13,11 +13,11 @@ public class RecordServicesImpl implements RecordServices{
 
 	
 	private List<Record> recordList = List.of(
-			new Record(1L,"tat@gmail.com","Arun",900L),
+			new Record(1L,"tat@gmail.com","Arun",123456L),
 			
-			new Record(2L,"info@gmail.com","sundar",800L),
+			new Record(2L,"info@gmail.com","sundar",123456L),
 			
-			new Record(3L,"exc@gmail.com","Riven",1100L),
+			new Record(3L,"exc@gmail.com","Riven",123456L),
 			
 			new Record(4L,"lad@gmail.com","Jager",200L),
 			
